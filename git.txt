@@ -1,0 +1,3 @@
+diff checker : for finding the diffrence between two code https://www.diffchecker.com/
+debian pastezone : for easy copy and paste between two pc http://paste.debian.net/
+ 
